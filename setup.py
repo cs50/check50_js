@@ -11,7 +11,7 @@ setup(
     ],
     description="This is check50_js, a javascript extension for check50.",
     license="GPLv3",
-    install_requires=["python-bond>=1.4,<2"],
+    install_requires=["python-bond>=1.4,<2", "check50>=3,<4"],
     keywords=["check50_js"],
     name="check50_js",
     python_requires=">= 3.6",
